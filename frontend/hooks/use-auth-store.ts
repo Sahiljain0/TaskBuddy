@@ -6,7 +6,7 @@ import { AuthState } from '@/lib/types';
 
 // Base URL for the API endpoints
 // const BASE_URL = "http://localhost:5000/api/v1/";
-const BASE_URL = "https://tasker-next-app.onrender.com/api/v1/";
+const BASE_URL = "https://taskbuddy-1.onrender.com/api/v1/";
 
 // Create a Zustand store with persistence
 export const useAuthStore = create(
