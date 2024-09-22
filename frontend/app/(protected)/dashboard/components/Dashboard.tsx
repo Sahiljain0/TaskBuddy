@@ -135,7 +135,7 @@ export default function Dashboard() {
                 transition={{ duration: 0.5 }}
             >
                 <h1 className='font-bold text-3xl text-gray-900 dark:text-gray-100'>
-                    Hey! Sahil 
+                   Welcome To  Dashboard
                 </h1>
             </motion.header>
 
