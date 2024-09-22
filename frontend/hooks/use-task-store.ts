@@ -5,8 +5,8 @@ import { TaskStore } from '@/lib/types';
 import { useAuthStore } from './use-auth-store';
 
 // Base URL for the API endpoints
-const BASE_URL = "http://localhost:5000/api/v1/";
-// const BASE_URL = "https://tasker-next-app.onrender.com/api/v1/";
+// const BASE_URL = "http://localhost:5000/api/v1/";
+const BASE_URL = "https://tasker-next-app.onrender.com/api/v1/";
 
 // Create a Zustand store for task management
 export const useTaskStore = create<TaskStore>((set) => ({
