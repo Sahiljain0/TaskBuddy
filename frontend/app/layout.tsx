@@ -15,8 +15,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Tasker",
-  description: "Tasker Is a task management Web App",
+  title: "TaskBuddy",
+  description: "TaskBuddy Is a task management Web App",
 };
 
 export default function RootLayout({
