@@ -15,6 +15,7 @@ The backend is developed using [Express](https://expressjs.com/) and [TypeScript
 ### Video Demo
 
 ![Demo Video ](https://res.cloudinary.com/dxzniberu/video/upload/v1727019702/viddeo_wfip1a.mp4)
+https://github.com/Sahiljain0/TaskBuddy/blob/main/viddeo.mp4
 
 ### Photo Demos
 
