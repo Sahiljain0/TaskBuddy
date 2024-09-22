@@ -1,9 +1,9 @@
 import express from 'express';
-import { connectDB } from './src/config/db';
+import { connectDB } from './config/db';
 import cors from 'cors';
 import coockieparser from 'cookie-parser';
 
-import routes from './src/routes/route';
+import routes from './routes/route';
 
 const app = express();
 
