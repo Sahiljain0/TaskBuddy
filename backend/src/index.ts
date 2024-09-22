@@ -13,7 +13,7 @@ app.use(coockieparser());
 app.use(cors({
   credentials: true,
   // origin: 'https://tasker-next-app.vercel.app',
-  origin:"https://task-buddy-one.vercel.app/",
+  origin:"https://task-buddy-one.vercel.app",
 }));
 
 // Connect to MongoDB
